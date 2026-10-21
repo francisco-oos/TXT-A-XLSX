@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*_XLSX_INDIVIDUAL/
+*_XLSX_POR_CARPETA/
+*_XLSX_UNIFICADO/
